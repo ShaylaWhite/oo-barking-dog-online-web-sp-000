@@ -12,3 +12,4 @@ def bark
   puts "woof!"
 end
 
+dog.new
