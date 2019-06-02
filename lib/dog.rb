@@ -11,7 +11,8 @@ end
 def bark
   puts "woof!"
 end
-pluto = Dog.new
-pluto.name = "pluto"
+
+def bark
  
 puts pluto.name
+end
