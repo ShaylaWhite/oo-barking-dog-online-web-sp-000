@@ -14,5 +14,4 @@ end
 
 def bark
  
-puts pluto.name
 end
