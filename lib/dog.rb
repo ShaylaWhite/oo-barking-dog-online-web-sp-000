@@ -12,7 +12,4 @@ def bark
   puts "woof!"
 end
 
-lassie = Dog.new
-lassie.name = "Lassie"
- 
-puts lassie.name
+
