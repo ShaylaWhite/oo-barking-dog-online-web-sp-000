@@ -12,4 +12,7 @@ def bark
   puts "woof!"
 end
 
-dog.new
+lassie = Dog.new
+lassie.name = "Lassie"
+ 
+puts lassie.name
