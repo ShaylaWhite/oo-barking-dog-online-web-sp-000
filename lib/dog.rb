@@ -11,3 +11,7 @@ end
 def bark
   puts "woof!"
 end
+pluto = Dog.new
+pluto.name = "Lassie"
+ 
+puts lassie.name
